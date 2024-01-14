@@ -1,4 +1,3 @@
 .idea
 target
-epicycloid.iml
-pom.xml
+*.iml
