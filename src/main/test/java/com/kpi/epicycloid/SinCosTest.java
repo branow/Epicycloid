@@ -1,3 +1,5 @@
+package com.kpi.epicycloid;
+
 import com.kpi.epicycloid.Logic;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
